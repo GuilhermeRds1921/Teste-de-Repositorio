@@ -10,6 +10,9 @@
 * Python
 * C
 * Hexapod
+   * Código
+   * 3D
+   * Site
 
 - [x] UTFPR-PB
 - [ ] Algoritmos
