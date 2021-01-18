@@ -1,6 +1,18 @@
 # Teste de Repositório
- Primeiro teste de criar um Repositório.
+## Curso de Git e GitHub, *Curso em Vídeo*
+### Markdown.
+**Primeiro teste de criar um Repositório**.
 
-Estou testando o VS Code.
-Curso de Git e GitHub, Curso em Vídeo
+1. Testando o VS Code.
+1. Testando o GitHub Desktop.
+1. Testando o Repositório
+
+* Python
+* C
+* Hexapod
+
+- [x] UTFPR-PB
+- [ ] Algoritmos
+- [ ] Fundamentos de Programação
+
  
