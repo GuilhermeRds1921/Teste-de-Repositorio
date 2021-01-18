@@ -18,4 +18,8 @@
 - [ ] Algoritmos
 - [ ] Fundamentos de Programação
 
+número | nome  | nota
+---|---|---
+1 | Guilherme | 10,0
+2 | Beto | 7.0
  
