@@ -34,3 +34,4 @@ return 0;
 ```
 [![Linkedin Badge](https://img.shields.io/badge/-Gui-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilherme-rodrigues-b39a751a7/) 
 [![Mail Badge](https://img.shields.io/badge/-@guilherme_rod19-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://www.instagram.com/guilherme_rod19/?hl=pt-br) 
+[![Mail Badge](https://img.shields.io/badge/-Guilhereme@gmail.com-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)]()
