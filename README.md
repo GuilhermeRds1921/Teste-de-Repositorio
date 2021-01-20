@@ -32,3 +32,4 @@ printf("A soma e: %d", num1+num2);
 return 0;
 }
 ```
+[![Linkedin Badge](https://img.shields.io/badge/-Gui-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilherme-rodrigues-b39a751a7/) 
